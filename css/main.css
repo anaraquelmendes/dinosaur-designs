@@ -26,16 +26,18 @@ nav {
   font-family: "Patua One", sans-serif;
 }
 
+nav ol {
+  list-style-type: none;
+}
+
 nav a {
   color: #793284;
   text-decoration: none;
-  font-family: "Patua One", sans-serif;
 }
 
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
-  font-family: "Patua One", sans-serif;
 }
 
 .intro {
