@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia, serif;
+  font-family: "Patua One", cursive;
   line-height: 1.5;
 }
 
@@ -25,7 +25,7 @@ nav a {
   color: #793284;
   text-decoration: none;
 }
-}nav a:hover {
+nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
